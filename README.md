@@ -1,6 +1,6 @@
 ### ✋ Hi! I'm Kim Daeun! ✋
 
-<img src="https://img.shields.io/badge/kde.ryan31@gmail.com-E34F26?style=flat&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kimde1031@gmail.com-E34F26?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### I'm Learning ~ 🔥
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
